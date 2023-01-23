@@ -28,7 +28,7 @@ spot, it will give co-ordinates to the police vehincle so that the blind spot ca
 - Change the current working directory to the location where you want the cloned directory.
 - Type git clone, and then paste the URL you copied earlier.
 
-      $ git clone https://github.com/prateek27das/Tars
+      $ git clone https://github.com/prateek27das/TARS-Flutter.git
       
  ## Contributing
 - Fork it
